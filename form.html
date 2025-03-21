@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="form.css"
+</head>
+<body>
+    <div class="nav">
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">Contact Us</a>
+            <a href="#">Gallery</a>
+            <a href="#">Feedback</a>
+        </nav>
+    </div><hr>  
+    
+    
+    <form action="">
+        <h2>Student Registration Form</h2>
+        
+        <fieldset>
+            <legend>Enter USer name</legend>
+        </fieldset><br><br>
+        <label for="">Enter Name</label>
+        <input type="text" placeholder="Name" required>
+        <br><hr>
+
+        <label for="">Enter Password</label>
+        <input type="password" placeholder="Password"><br><hr>
+
+        <label for="">Enter Email</label>
+        <input type="email" placeholder="Email" value="abc@gmail.com" readonly  ><br><hr>
+
+        <label for="">Mobile Number</label>
+        <input type="tel" placeholder="Mobile" pattern="[0-9]{10}" ><br><hr>
+
+        <label for="">Feedback</label>
+        <textarea name="" id="" rows="5" cols="25" placeholder="Feedback"></textarea><br><hr>
+
+        <label for="">Languages Known</label><br>
+        <label for="">Hindi</label>
+        <input type="checkbox" value="foot"><br>
+
+        <label for="">English</label>
+        <input type="checkbox" value="Cricket"><br>
+
+        <label for="">Marathi</label>
+        <input type="checkbox" value="Marathi"><br><hr>
+
+        <label for="">Select Gender</label>
+
+        <input type="radio" value="female" name="gender">
+        <label for="">1.Male</label>
+
+        <input type="radio" value="female" name="gender">
+        <label for="">2.Female</label><br><hr>
+
+        <label for="">Select City</label>
+        <select name="" id="" >
+            <option value="" >Pune</option>
+            <option value="">Indore</option>
+            <option value="">Satara</option>
+            <option value="">Kolhapur</option>
+            <option value="">Bangluru</option>
+        </select><br><hr>
+
+        <label for="">Countries</label>
+        <input type="text" list="Countries" id="Count" name="Countries" placeholder="Countries">
+        <datalist id="Countries">
+            <option value="India">India</option>
+            <option value="Bangok">Bangok</option>
+            <option value="Bhutan">Bhutan</option>
+            <option value="Brazil">Brazil</option>
+            <option value="Sweden">Sweden</option>
+            <option value="Russia">Russia</option>
+        </datalist><br><hr>
+        
+        <button value="Submit">Submit</button>
+        
+
+    </form>
+
+    
+</body>
+</html>

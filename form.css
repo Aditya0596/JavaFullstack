@@ -1,0 +1,32 @@
+.nav{
+    background-color: aqua;
+   
+    text-align: center;
+    margin: 5px;
+    padding: 8px;
+
+}
+form{
+    height: 100%;
+    width: 50vw;
+    border: 2px solid black;
+    margin: auto;
+    background-color: burlywood;
+}
+
+input{
+    padding: 5px;
+    margin-top: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+label{
+    padding: 2px;
+}
+button{
+    margin-left: 180px;
+    margin-bottom: 5px;
+    
+}
+h2{
+    text-align: center;
+}
