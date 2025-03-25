@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    position: fixed;
+    text-align: center;
+    background-color: burlywood;
+    width: 100%;
+    padding: 10px;
+    text-decoration: underline;
+}   
+
+.img{
+    width: 50%;
+    margin-left:190px;
+    margin-top: 15px;
+}
+

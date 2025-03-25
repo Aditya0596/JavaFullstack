@@ -1,0 +1,25 @@
+#first{
+    border: 2px solid black;
+    width: fit-content;
+    padding: 8px;
+    border-style:dashed ;
+    border-radius: 8px;
+    border-top-color: chartreuse;
+    border-bottom-color: aqua;
+    margin-left: 50%;
+    font-weight: 900;
+}
+#second{
+    border: 2px solid black;
+    width: fit-content;
+    padding: 8px;
+    border-style:dashed ;
+    border-radius: 8px;
+    border-top-color: chartreuse;
+    border-bottom-color: aqua;
+    margin-left: 50%;
+    margin-top: 20%;
+    font-weight: 900;
+}
+
+

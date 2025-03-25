@@ -1,0 +1,19 @@
+h2{
+    border: 2px solid black;
+    width: fit-content;
+    display: inline;
+    margin: 15px;
+    
+}
+a{
+    border: 2px solid black;
+    width: fit-content;
+    margin: 10px;
+    width: 180px;
+    height: 55px;
+    font-size: 44px;
+    margin-top: 25px;
+    background-color: aqua;
+    display: block;
+
+}
