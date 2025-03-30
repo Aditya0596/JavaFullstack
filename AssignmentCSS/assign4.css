@@ -1,0 +1,20 @@
+
+
+.paragraph{
+    background-color: rgb(198, 225, 226);
+    width: 750px;
+    
+    
+   
+
+}
+.paragraph::first-letter{
+    font-size: 48px;
+}
+.second{
+    width: 800px;
+    background-color: blueviolet;
+    
+    border-top: 8px solid blue;
+    
+}

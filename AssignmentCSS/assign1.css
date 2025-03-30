@@ -1,0 +1,29 @@
+.container{
+    background-color: aqua;
+    width: 1050px;
+    height: 250px;
+    position: absolute;
+    right: 0;
+    box-sizing: border-box;
+}
+.second{
+    background-color: aqua;
+    width: 950px;
+    height: 250px;
+    position:absolute;
+    margin-top: 260px;
+    margin-left: 30px;
+    box-sizing: border-box;
+    border: 1px solid beige;
+}
+h3{
+    text-align: center;
+    color: antiquewhite;
+    font-weight: 900;
+    font-size: 18px;
+}
+body{
+    background-color: rgb(61, 34, 34);
+    position: relative;
+    box-sizing: border-box;
+}
