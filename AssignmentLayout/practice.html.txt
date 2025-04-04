@@ -58,10 +58,9 @@ background-color:violet;
 
 background-color:yellow;
 
-
 }#box-17{
-border-bottom: 0;
-background-color:rgb(174, 174, 182);
+
+background-color:blue;
 }
 #row1{
 height:50%;
@@ -75,10 +74,10 @@ text-decoration:underline;
 }
 
 #col1{
-width:508px;
+width:426px;
 }	
 #col2{
-width:249px;
+width:211px;
 }
 </style>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.4/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-DQvkBjpPgn7RC31MCQoOeC9TI2kdqa4+BSgNMNj8v77fdC77Kj5zpWFTJaaAoMbC" crossorigin="anonymous">
